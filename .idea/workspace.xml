@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72409027-5096-436d-b4c1-699054cce081" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iXlPn8DULjaBZkt2qrxc0pVz5r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Saeima_Py" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Saeima_Py" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Scrapper_main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Saeima_Py" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="$USER_HOME$/.local/share/virtualenvs/Saeima_Py-YWtJvsKR/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Scrapper_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72409027-5096-436d-b4c1-699054cce081" name="Default Changelist" comment="" />
+      <created>1602061795860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602061795860</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="336" y="161" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603221684647">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="336" y="161" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1603221684647" />
+    <state x="359" y="172" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1602589405526" />
+    <state x="360" y="192" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1602605552942" />
+    <state x="2151" y="150" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.-19.1920.1177/0.23.1792.1097@1792.-19.1920.1177" timestamp="1602593514962" />
+    <state x="2151" y="130" key="#com.intellij.execution.impl.EditConfigurationsDialog/1792.-42.1920.1200/0.0.1792.1120@1792.-42.1920.1200" timestamp="1602589893086" />
+    <state x="253" y="244" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1602568701761">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="253" y="244" key="#com.intellij.ide.macro.MacrosDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1602568701761" />
+    <state width="1899" height="405" key="GridCell.Tab.0.bottom" timestamp="1602603840081">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1602576699365" />
+    <state width="1899" height="405" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1602603840080" />
+    <state width="1899" height="405" key="GridCell.Tab.0.center" timestamp="1602603840080">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1602576699364" />
+    <state width="1899" height="405" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1602603840080" />
+    <state width="1899" height="405" key="GridCell.Tab.0.left" timestamp="1602603840080">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1602576699363" />
+    <state width="1899" height="405" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1602603840080" />
+    <state width="1899" height="405" key="GridCell.Tab.0.right" timestamp="1602603840080">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1602576699364" />
+    <state width="1899" height="405" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1602603840080" />
+    <state width="1899" height="405" key="GridCell.Tab.1.bottom" timestamp="1602603840081">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.1.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1602576699366" />
+    <state width="1899" height="405" key="GridCell.Tab.1.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1602603840081" />
+    <state width="1899" height="405" key="GridCell.Tab.1.center" timestamp="1602603840081">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.1.center/0.0.1920.1200@0.0.1920.1200" timestamp="1602576699365" />
+    <state width="1899" height="405" key="GridCell.Tab.1.center/0.23.1920.1177@0.23.1920.1177" timestamp="1602603840081" />
+    <state width="1899" height="405" key="GridCell.Tab.1.left" timestamp="1602603840081">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.1.left/0.0.1920.1200@0.0.1920.1200" timestamp="1602576699365" />
+    <state width="1899" height="405" key="GridCell.Tab.1.left/0.23.1920.1177@0.23.1920.1177" timestamp="1602603840081" />
+    <state width="1899" height="405" key="GridCell.Tab.1.right" timestamp="1602603840081">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="423" key="GridCell.Tab.1.right/0.0.1920.1200@0.0.1920.1200" timestamp="1602576699366" />
+    <state width="1899" height="405" key="GridCell.Tab.1.right/0.23.1920.1177@0.23.1920.1177" timestamp="1602603840081" />
+    <state x="469" y="239" key="SettingsEditor" timestamp="1602067968283">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="469" y="239" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1602067968283" />
+    <state width="960" height="589" key="XDebugger.FullValuePopup" timestamp="1602604501345">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="960" height="600" key="XDebugger.FullValuePopup/0.0.1920.1200@0.0.1920.1200" timestamp="1602241179324" />
+    <state width="960" height="589" key="XDebugger.FullValuePopup/0.23.1920.1177@0.23.1920.1177" timestamp="1602604501345" />
+    <state x="550" y="324" key="com.intellij.ide.util.TipDialog" timestamp="1603174113312">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="550" y="324" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1603174113312" />
+    <state x="589" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1602579251933" />
+    <state x="589" y="363" key="com.intellij.ide.util.TipDialog/0.23.1920.1177@0.23.1920.1177" timestamp="1602061832370" />
+  </component>
+</project>
